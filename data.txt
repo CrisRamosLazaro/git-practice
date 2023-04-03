@@ -1,3 +1,4 @@
 Name: Cris
 Age: 32
 Favorite Color: Red
+Status: tired
